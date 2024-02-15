@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-- I'm a senior at Georgia State University, passionate about exploring the realms of coding, machine learning, and building robust applications <br> - I'm currently building a Spotify Music Recommender that uses Spotify API to gather user playlist data, machine learning models like matrix factorization and techniques like collaborative filtering to recommend songs similar to the user's music taste<br>  - I've done several interesting projects in the past like:
+- I'm a senior at Georgia State University, passionate about exploring the realms of coding, machine learning, and building robust applications <br>
+- I'm currently building a Spotify Music Recommender that uses Spotify API to gather user playlist data, machine learning models like matrix factorization, and techniques like collaborative filtering to recommend songs similar to the user's music taste<br>
+- I've done several interesting projects in the past like:
   + Amazon Avid Analyzer -
   + SkyOps -
   + Sip & Smile - 
