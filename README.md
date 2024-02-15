@@ -1,6 +1,4 @@
-<p align="center">
-  ## Hey there 👋, I'm Shray Tripathi</b>
-</p>
+<h2 align="center">Hey there 👋, I'm Shray Tripathi</h2>
 
 <!--
 **shriyansh1234/shriyansh1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
