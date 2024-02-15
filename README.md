@@ -1,5 +1,5 @@
 <center> 
-  ## Hey there 👋, I'm Shray Tripathi</center>
+  ## Hey there 👋, I'm Shray Tripathi </center>
 
 <!--
 **shriyansh1234/shriyansh1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
