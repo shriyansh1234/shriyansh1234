@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 
 # 🌐 Connect With Me:
-- If you are interested in working on an interesting project/ looking for team members, feel free to reach out on my LinkedIn
+- If you are interested in working on an interesting project/ looking for team members, feel free to reach out on my LinkedIn <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/st2trips/) 
 
 # 💻 Tech Stack:
