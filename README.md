@@ -1,6 +1,6 @@
-<center> 
-  ## Hey there 👋, I'm Shray Tripathi 
-</center>
+<p align="center">
+  <b>Hey there 👋, I'm Shray Tripathi</b>
+</p>
 
 <!--
 **shriyansh1234/shriyansh1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-I'm a senior at Georgia State University, passionate about exploring the realms of coding, machine learning, and building robust applications <br>I'm currently building a Spotify Music Recommender that uses Spotify API to gather user playlist data, machine learning models like matrix factorization and techniques like collaborative filtering to recommend songs similar to the user's music taste<br>  
+I'm a senior at Georgia State University, passionate about exploring the realms of coding, machine learning, and building robust applications <br>I'm currently building a Spotify Music Recommender that uses Spotify API to gather user playlist data, machine learning models like matrix factorization and techniques like collaborative filtering to recommend songs similar to the user's music taste<br>  I've done several interesting projects in the past like
 
 
 ## 🌐 Connect With Me:
