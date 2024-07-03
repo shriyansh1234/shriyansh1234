@@ -20,9 +20,10 @@ Here are some ideas to get you started:
 - I've done several interesting projects in the past like:
   + Amazon Avid Analyzer -
   + SkyOps -
-  + Sip & Smile - 
+   
   + Housing Price Prediction - 
-  + Personal Portfolio Website - 
+  + Personal Portfolio Website -
+  + + Sip & Smile -
 
 
 # 🌐 Connect With Me:
