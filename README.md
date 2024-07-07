@@ -16,13 +16,15 @@ Here are some ideas to get you started:
 -->
 # 💫 About Me:
 - I'm a senior at Georgia State University, passionate about exploring the realms of coding, machine learning, and building robust applications <br>
-- I'm currently building a Spotify Music Recommender that uses Spotify API to gather user playlist data, machine learning models like matrix factorization, and techniques like collaborative filtering to recommend songs similar to the user's music taste<br>
+- I'm currently building a Stock Market analysis project, which uses AWS and streaming data to create an end-to-end real-time data engineering project. <br>
 - I've done several interesting projects in the past like:
+  + Real Estate Sales Dashboard - 
+  + Spotify Music Recommender - 
   + Amazon Avid Analyzer -
   + SkyOps -
   + Housing Price Prediction - 
   + Personal Portfolio Website -
-  + Sip & Smile -
+  
 
 
 # 🌐 Connect With Me:
