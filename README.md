@@ -15,20 +15,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-- I'm a senior at Georgia State University, passionate about exploring the realms of coding, machine learning, and building robust applications <br>
-- I'm currently building a Stock Market analysis project, which uses AWS and streaming data to create an end-to-end real-time data engineering project. <br>
-- I've done several interesting projects in the past like:
-  + Real Estate Sales Dashboard - 
-  + Spotify Music Recommender - 
-  + Amazon Avid Analyzer -
-  + SkyOps -
-  + Housing Price Prediction - 
-  + Personal Portfolio Website -
+- I’m Shray Tripathi, a recent Computer Science graduate from Georgia State University, starting my Master’s in Analytics at Georgia Tech this Fall.
+- I’m passionate about solving real-world problems at the intersection of data, AI, and software engineering.
+- Currently, I’m working as a Founding Engineer at Lexlabs AI, where I build data-driven tools and AI agents to automate workflows in construction and supply chain.
+- I'm building an intelligent voice agent platform that integrates LLMs for call handling.
+- Some of my recent projects include:
+  + **Event Finder App** – Flask-based web app for discovering and promoting local events with map integration and payment features.
+  + **Real Estate Sales Dashboard** – Built in Power BI using DAX, visualizing agent performance, revenue targets, and interactive state maps.
+  + **SkyOps** – A proactive airport analytics dashboard for operational efficiency using historical flight data.
+  + **Amazon Avid Analyzer** – Summarizes reviews using NLP and sentiment analysis for product evaluation.
+  + **Spotify Music Recommender** – Collaborative filtering system for music personalization.
+  + **Housing Price Prediction** – Regression-based model to predict housing prices from structured datasets.
+  + **Personal Portfolio Website** – Showcases my skills, experience, and ongoing projects.
+
+- I’m eager to keep exploring how data science, machine learning, and full-stack development can be combined to build smarter systems.
+
   
 
 
 # 🌐 Connect With Me:
-- If you are interested in working on an interesting project/ looking for team members, feel free to reach out on my LinkedIn <br>
+-  Feel free to reach out on my LinkedIn <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/st2trips/) 
 
 # 💻 Tech Stack:
