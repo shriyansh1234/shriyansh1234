@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-- I’m Shray Tripathi, a recent Computer Science graduate from Georgia State University, starting my Master’s in Analytics at Georgia Tech this Fall.
+- I’m Shray Tripathi, currently pursuing my Master’s in Analytics at Georgia Tech.
 - I’m passionate about solving real-world problems at the intersection of data, AI, and software engineering.
 - Currently, I’m working as a Founding Engineer at Lexlabs AI, where I build data-driven tools and AI agents to automate workflows in construction and supply chain.
 - I'm building an intelligent voice agent platform that integrates LLMs for call handling.
