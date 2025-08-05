@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - Currently, I’m working as a Founding Engineer at Lexlabs AI, where I build data-driven tools and AI agents to automate workflows in construction and supply chain.
 - I'm building an intelligent voice agent platform that integrates LLMs for call handling.
 - Some of my recent projects include:
-  + **Event Finder App** – Flask-based web app for discovering and promoting local events with map integration and payment features.
+  + Customer Churn Analysis Predictor – Built a classification model to identify at-risk customers using machine learning, feature engineering, and performance evaluation metrics.
   + **Real Estate Sales Dashboard** – Built in Power BI using DAX, visualizing agent performance, revenue targets, and interactive state maps.
   + **SkyOps** – A proactive airport analytics dashboard for operational efficiency using historical flight data.
   + **Amazon Avid Analyzer** – Summarizes reviews using NLP and sentiment analysis for product evaluation.
